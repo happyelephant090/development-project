@@ -3,7 +3,7 @@ import React from 'react';
 import Gallery from './components/clothesitem';
 import NavBar from './components/navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
-import { useState,useEffect,useReducer} from "react";
+import { useState,useEffect} from "react";
 import Cart from './components/cart';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';

@@ -1,0 +1,167 @@
+[
+    {
+        "name" : "Logo Graphic Shirt",
+        "color": "Navy",
+        "price": 12.15,
+        "isTshirt":true,
+        "description": "Made with 40% recycled polyester. Crew neck. ",
+        "quantity":1,
+        "image": "images/navyshirt.png"
+    },
+      {
+        "name" : "Flounce Mini Skirt",
+        "color": "Natural Stone",
+        "price": 48.97,
+        "isSkirt":true,
+        "description": "Button front closure. Self-tie bow at waist. Belt loops.",
+        "quantity":1,
+        "image": "images/miniskirt.png"
+    },
+    {
+        "name" : "Soft Luxe T-Shirt",
+        "color": "Dark Camel",
+        "price": 22.25,
+        "isTshirt":true,
+        "description": "The fabric is cozy, sweater-soft with added stretch.",
+        "quantity":1,
+        "image":"images/caramelluxeshirt.png"
+    },
+    {
+        "name" : "Sherpa Full Zip Jacket",
+        "color": "White",
+        "price": 35.99,
+        "type":"jacket",
+        "description": "Funnel neck. Long sleeves. Zipper closure. Front pockets.",
+        "quantity":1,
+        "image": "images/zipjacket.png"
+      
+    },
+    {
+        "name" : "Prado Satin Cargo Pant",
+        "color": "White",
+        "price": 36.75,
+        "description": "Button closure with zip fly. Belt loops. D ring buckle belt.",
+        "quantity":1,
+       "image": "images/cargopant.png"
+    },
+    {
+        "name" : "Knit Cocoon Jacket",
+        "color": "Brown",
+        "price": 48.99,
+        "type":"jacket",
+        "description": "Point collar. Long sleeves. Drop shoulders. ",
+        "quantity":1,
+        "image": "images/knitjacket.png"
+      
+    },
+    {
+        "name" : "Hayden Taper Pant",
+        "color": "Black",
+        "price": 36.75,
+        "type":"pant",
+        "description": "Our two-way stretch fabric gives this pant flexible comfort and recovery.",
+        "gender": "female",
+        "quantity":1,
+       "image":  "images/taperpant.png"
+    },
+    {
+        "name" : "Wide-Leg Flannel Pant",
+        "color": "Midnight Lily",
+        "price": 36.25,
+        "type":"pant",
+        "description": "Made with 64% recycled polyester. Hook-and-bar closure with zip fly. Belt loops.",
+        "quantity":1,
+        "image": "images/flannelpant.png"
+    },
+    {
+        "name" : "Long Hooded Puffer Jacket",
+        "color": "Midnight Lily",
+        "price": 88.29,
+        "type":"jacket",
+        "description": "Turtle neck with hood. Long sleeves with hidden knit ribbed cuffs.",
+        "quantity":1,
+        "image": "images/pufferjacket.png"
+    },
+    {
+        "name" : "Faux Suede Jacket",
+        "color": "Falcon Brown",
+        "price": 68.48,
+        "type":"jacket",
+        "description": "Lapel collar snaps. Long sleeves with zipper cuffs.",
+        "quantity":1,
+        "image":"images/brownfauxjacket.png"
+    },
+    {
+        "name" : "Classic Demin Jacket",
+        "color": "Denim",
+        "price": 36.58,
+        "type":"jacket",
+        "description": "Point collar. Long sleeves with buttoned cuffs.",
+        "quantity":1,
+        "image": "images/deminjacket.png"
+    },
+    {
+        "name" : "Wrap Sweater Midi Skirt",
+        "color": "Midnight Lily",
+        "price": 36.35,
+        "isSkirt":true,
+        "description": "Pull on skirt. Elastic waistband. Flat front. Front slit. Straight hem.",
+        "quantity":1,
+        "image": "images/midiskirt.png"
+    },
+    {
+        "name" : "Tencel Utility Pant",
+        "color": "Black",
+        "price": 41.99,
+        "type":"pant",
+        "description":"Center front seam. Adjustable tab detail at hem.",
+        "quantity":1,
+        "image":"images/utuilitypant.jpeg"
+    },
+    {
+        "name" : "Midi Sweater Skirt",
+        "color": "Camel",
+        "price": 56.12,
+        "isSkirt":true,
+        "description":"Elastic ribbed waistband. Knit-in panels. Flare hem.",
+        "quantity":1,
+        "image": "images/sweaterskirt.png"
+    },
+    {
+
+        "name" : "Silky Collar Blouse",
+        "color" : "White",
+        "price" : 24.12,
+        "type": "blouse",
+        "description": "Point collar with split neck. Long sleeves with buttoned cuffs. ",
+        "quantity":1,
+        "image" : "images/whiteblouse.png" 
+    },
+    {
+        "name" : "Denim Pencil Skirt",
+        "color": "Denim",
+        "price": 28.10,
+        "type": "skirt",
+        "description": "Zip fly with button closure. Belt loops. Five-pocket styling. Center front seam from deconstructed jeans.",
+        "quantity":1,
+        "image": "images/denimpencilskirt.png"
+    },
+    {
+        "name"  : "Boyfriend Flannel Shirt",
+        "color" : "Black",
+        "price": 26.25,
+        "type": "blouse",
+        "description": "Point collar. Long sleeves with buttoned cuffs. Button front closure. Back yoke with box pleat. Shirt tail hem.",
+        "quantity":1,
+        "image": "images/flannelshirt.png"
+      },
+    {
+        "name" : "Curdory Mini Skirt",
+        "color": "Brown",
+        "price": 34.15,
+        "isSkirt":true,
+        "description": "Zipper front closure. Tapered waist. Self tying belt with belt loops. Front pockets. Center front vent. Straight hem.",
+        "quantity":1,
+        "image": "images/curdoryskirt.png"
+    } 
+]

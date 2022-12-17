@@ -1,14 +1,28 @@
 {
   "files": {
-    "main.css": "/development-project/static/css/main.073c9b0a.css",
-    "main.js": "/development-project/static/js/main.84a75d0e.js",
-    "static/media/logo.svg": "/development-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/development-project/static/css/main.2e093240.css",
+    "main.js": "/development-project/static/js/main.3bc874e5.js",
+    "static/media/bubblegum-sans-v16-latin-regular.svg": "/development-project/static/media/bubblegum-sans-v16-latin-regular.a44c02a3ac5963dcbe72.svg",
+    "static/media/noto-serif-georgian-v18-latin-regular.svg": "/development-project/static/media/noto-serif-georgian-v18-latin-regular.fa0ed3fc461b69cc18d9.svg",
+    "static/media/oswald-v49-latin-regular.svg": "/development-project/static/media/oswald-v49-latin-regular.cda95197bdef1d58d592.svg",
+    "static/media/bubblegum-sans-v16-latin-regular.ttf": "/development-project/static/media/bubblegum-sans-v16-latin-regular.364cbb22e587f67c321d.ttf",
+    "static/media/noto-serif-georgian-v18-latin-regular.ttf": "/development-project/static/media/noto-serif-georgian-v18-latin-regular.86d35dfe0d07d48f5858.ttf",
+    "static/media/oswald-v49-latin-regular.ttf": "/development-project/static/media/oswald-v49-latin-regular.2467215cb8c04278bd0f.ttf",
+    "static/media/bubblegum-sans-v16-latin-regular.woff": "/development-project/static/media/bubblegum-sans-v16-latin-regular.ead63315831f8803c8e6.woff",
+    "static/media/bubblegum-sans-v16-latin-regular.eot": "/development-project/static/media/bubblegum-sans-v16-latin-regular.7bbfd554c10ced20c62d.eot",
+    "static/media/bubblegum-sans-v16-latin-regular.woff2": "/development-project/static/media/bubblegum-sans-v16-latin-regular.06c25fdef1f8cc261b08.woff2",
+    "static/media/noto-serif-georgian-v18-latin-regular.woff": "/development-project/static/media/noto-serif-georgian-v18-latin-regular.13dbc585fe665d43b507.woff",
+    "static/media/oswald-v49-latin-regular.woff": "/development-project/static/media/oswald-v49-latin-regular.774a8c8d4b0b993dc3b5.woff",
+    "static/media/noto-serif-georgian-v18-latin-regular.eot": "/development-project/static/media/noto-serif-georgian-v18-latin-regular.20c6e2bbd219d3d20258.eot",
+    "static/media/oswald-v49-latin-regular.eot": "/development-project/static/media/oswald-v49-latin-regular.3fadb8c7ca85ec2211bf.eot",
+    "static/media/noto-serif-georgian-v18-latin-regular.woff2": "/development-project/static/media/noto-serif-georgian-v18-latin-regular.31902680c0627f6e6d87.woff2",
+    "static/media/oswald-v49-latin-regular.woff2": "/development-project/static/media/oswald-v49-latin-regular.37ffdd2667b8a0045f0d.woff2",
     "index.html": "/development-project/index.html",
-    "main.073c9b0a.css.map": "/development-project/static/css/main.073c9b0a.css.map",
-    "main.84a75d0e.js.map": "/development-project/static/js/main.84a75d0e.js.map"
+    "main.2e093240.css.map": "/development-project/static/css/main.2e093240.css.map",
+    "main.3bc874e5.js.map": "/development-project/static/js/main.3bc874e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.84a75d0e.js"
+    "static/css/main.2e093240.css",
+    "static/js/main.3bc874e5.js"
   ]
 }

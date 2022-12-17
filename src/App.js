@@ -10,6 +10,7 @@ import Nav from 'react-bootstrap/Nav';
 
 
 function App(){
+  //items from banana republic factory
   const clothesData=[
     {
         "name" : "Logo Graphic Shirt",
